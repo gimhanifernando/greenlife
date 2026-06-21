@@ -1,8 +1,8 @@
-# 🌿 GreenLife Wellness Center Web Application
+# GreenLife Wellness Center Web Application
 
 A full-stack wellness management web application developed for GreenLife Wellness Center. The system enables clients to browse wellness services, book appointments online, submit reviews, and communicate with the wellness center. Therapists and administrators are provided with dedicated dashboards for managing appointments and system operations.
 
-## 📖 Project Overview
+## Project Overview
 
 GreenLife Wellness Center is a web-based appointment and wellness service management system designed to improve customer engagement and streamline service administration.
 
@@ -17,9 +17,9 @@ The platform supports:
 - Review and feedback system
 - Real-time slot availability checking
 
-## ✨ Features
+## Features
 
-### 👤 Client Features
+### Client Features
 
 - User Registration and Login
 - Browse Wellness Services
@@ -29,14 +29,14 @@ The platform supports:
 - Contact Wellness Center
 - Guest Booking Support
 
-### 🧘 Therapist Features
+### Therapist Features
 
 - Secure Login
 - View Assigned Appointments
 - Manage Client Sessions
 - Therapist Dashboard
 
-### ⚙️ Admin Features
+### Admin Features
 
 - Admin Dashboard
 - Manage Bookings
@@ -46,7 +46,7 @@ The platform supports:
 - Manage Wellness Services
 - Monitor System Activity
 
-## 🏥 Wellness Services Offered
+## Wellness Services Offered
 
 - Massage Therapy
 - Physiotherapy
@@ -54,7 +54,7 @@ The platform supports:
 - Yoga and Meditation
 - Ayurvedic Therapy
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend
 
@@ -77,7 +77,7 @@ The platform supports:
 - Password Hashing
 - Responsive Web Design
 
-## 🔒 Security Features
+## Security Features
 
 - Password Hashing using `password_hash()`
 - Session-Based Authentication
@@ -86,7 +86,7 @@ The platform supports:
 - SQL Injection Prevention using Prepared Statements
 - Database Constraints and Foreign Keys
 
-## 🗄️ Database Structure
+## Database Structure
 
 Main database tables include:
 
@@ -98,7 +98,7 @@ Main database tables include:
 - messages
 - reviews
 
-## 📊 System Roles
+## System Roles
 
 | Role | Permissions |
 |--------|-------------|
@@ -106,7 +106,7 @@ Main database tables include:
 | Therapist | View Assigned Bookings, Manage Sessions |
 | Admin | Manage Users, Therapists, Bookings, Messages, Payments |
 
-## 📱 Responsive Design
+## Responsive Design
 
 The application is fully responsive and optimized for:
 
@@ -114,7 +114,7 @@ The application is fully responsive and optimized for:
 - Tablets
 - Mobile Phones
 
-## 🧪 Testing
+##  Testing
 
 The system was tested using 20 functional test cases covering:
 
@@ -130,43 +130,9 @@ The system was tested using 20 functional test cases covering:
 
 All test cases passed successfully.
 
-## 🚀 Installation Guide
-
-### Prerequisites
-
-- XAMPP 
-- PHP 
-- MySQL
 
 
-## 📂 Project Structure
-
-```text
-greenlife-wellness-center/
-│
-├── css/
-├── js/
-├── images/
-├── database/
-│
-├── index.php
-├── login.php
-├── signup.php
-├── book.php
-├── contact.php
-├── history.php
-├── reviews.php
-│
-├── therapist_dashboard.php
-├── admin_dashboard.php
-├── admin_bookings.php
-│
-├── check_slots.php
-├── config.php
-└── README.md
-```
-
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates:
 
@@ -204,3 +170,6 @@ This project was developed for academic purposes as part of the Web Application 
 
 ## Our Team Page
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d72bf175-e157-4552-bc3e-58ffc5046f31" />
+
+## Contact Page
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33b56577-6884-4557-9a4f-c74952b9f501" />
